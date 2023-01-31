@@ -5,11 +5,11 @@ function App() {
 
   return (
     <div>
-      <BasicExample />
+      {/* <BasicExample /> */}
       {/* <Post /> */}
-      <Post imgSrc='https://toyota-central.com/Assets/images/Vehicle/Revo/Revo-showcase1.jpg' divpara='Some Changes here ...' />
-      <Post imgSrc='https://toyotasouthern.com/wp-content/uploads/2021/01/explore-fortuner-img-1.jpg' divpara='Some Changes here ...' />
-      <Post imgSrc='https://dnd.com.pk/wp-content/uploads/2021/03/9tro-2021-toyota-hilux-debuts-in-thailand-1.jpg' divpara='Some Changes here ...' />
+      {/* <Post imgSrc='https://toyota-central.com/Assets/images/Vehicle/Revo/Revo-showcase1.jpg' divpara='Some Changes here ...' /> */}
+      {/* <Post imgSrc='https://toyotasouthern.com/wp-content/uploads/2021/01/explore-fortuner-img-1.jpg' divpara='Some Changes here ...' /> */}
+      {/* <Post imgSrc='https://dnd.com.pk/wp-content/uploads/2021/03/9tro-2021-toyota-hilux-debuts-in-thailand-1.jpg' divpara='Some Changes here ...' /> */}
     </div>
   );
 }
